@@ -1,4 +1,6 @@
-# <img src="https://github.com/user-attachments/assets/b8249113-d515-4c91-a12a-f134813614e8" height="60" valign="middle" alt="Safe{Wallet}" style="background: #fff; padding: 20px; margin: 0 -20px" />
+</p>DANISHAHMEDKM/safe-wallet-monorepo</p>
+
+## <img src="https://github.com/user-attachments/assets/b8249113-d515-4c91-a12a-f134813614e8" height="60" valign="middle" alt="Safe{Wallet}" style="background: #fff; padding: 20px; margin: 0 -20px" />
 
 # Safe{Wallet} monorepo
 
@@ -139,13 +141,7 @@ yarn install
 - Ensure tests and linting pass before pushing changes.
 - Follow the commit message guidelines.
 
-### Tools & configurations
 
-- **Husky**: Pre-commit hooks for linting and tests.
-- **ESLint & Prettier**: Enforce coding standards and formatting.
-- **Jest**: Unit testing framework.
-- **Expo**: Mobile app framework for the `mobile` workspace.
-- **Next.js**: React framework for the `web` workspace.
 
 ## Useful links
 
